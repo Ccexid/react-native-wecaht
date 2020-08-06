@@ -1,0 +1,13 @@
+com/theweflex/react/BuildConfig.java
+ com.theweflex.react.BuildConfig
+com/theweflex/react/WeChatModule.java
+ com.theweflex.react.WeChatModule
+ com.theweflex.react.WeChatModule$1
+ com.theweflex.react.WeChatModule$2
+ com.theweflex.react.WeChatModule$3
+ com.theweflex.react.WeChatModule$4
+ com.theweflex.react.WeChatModule$5
+ com.theweflex.react.WeChatModule$ImageCallback
+ com.theweflex.react.WeChatModule$MediaObjectCallback
+com/theweflex/react/WeChatPackage.java
+ com.theweflex.react.WeChatPackage
